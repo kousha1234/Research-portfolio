@@ -6,7 +6,7 @@ Short write-ups of selected projects.
 - **DEFEAT: BMI correlation with mental health and HRQoL**  
   Summary: Secondary analysis exploring associations between BMI categories and outcomes.  
   Methods: Logistic/linear regression; confounder adjustment; descriptive analysis.  
-  → Read: `projects/defeat-bmi-regression.md`
+  → Read: `Doc, defeat files`
  
 - **(Your Project 2)**  
   One-line summary.  
