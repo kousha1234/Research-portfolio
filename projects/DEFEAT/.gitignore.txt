@@ -1,0 +1,15 @@
+data/
+raw/
+secure/
+*.csv
+*.tsv
+*.xlsx
+*.rds
+*.sav
+*.sas7bdat
+*.dta
+*.json
+*.parquet
+*.RData
+*.zip
+*.7z
