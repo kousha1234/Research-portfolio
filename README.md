@@ -1,4 +1,3 @@
-
 ## sampel Projects
 - **DEFEAT: BMI correlation with mental health and HRQoL**  
   Summary: Secondary analysis exploring associations between BMI categories and outcomes.  
