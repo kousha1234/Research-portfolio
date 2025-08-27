@@ -1,6 +1,17 @@
 # Kousha — Research Portfolio
 All examples use **synthetic** data.
 
-## Reports
-- [DEFEAT: BMI (categorised)](DEFEAT-BMI-categorised/index.html)
-- [DEFEAT: BMI (continuous)](DEFEAT-BMI-continuous/index.html)
+## Projects
+### DEFEAT: BMI & mental health / HRQoL (categorised)
+**Summary.** Secondary analysis exploring associations between BMI categories and mental-health and QoL outcomes.  
+**Methods.** Logistic/linear models; confounder adjustment; descriptive summaries.  
+→ **Read:** [Report](DEFEAT-BMI-categorised/index.html)
+
+### DEFEAT: BMI & outcomes (continuous)
+**Summary.** Same question using BMI as a continuous exposure with model diagnostics.  
+**Methods.** Linear models; sensitivity checks.  
+→ **Read:** [Report](DEFEAT-BMI-continuous/index.html)
+
+## Resources
+- [Repository README](https://github.com/kousha1234/Research-portfolio#readme)
+- [MIT License](https://github.com/kousha1234/Research-portfolio/blob/main/LICENSE)
