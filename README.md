@@ -13,7 +13,7 @@
 
 
 ### Connect
-[Email](koushasarpari@gmail.com) · [LinkedIn]([https://www.linkedin.com/in/koushasarpari/])
+[Email](koushasarpari@gmail.com) · [LinkedIn](https://www.linkedin.com/in/koushasarpari)
 
 ## sampel Projects
 - **DEFEAT: BMI correlation with mental health and HRQoL**  
