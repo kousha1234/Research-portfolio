@@ -1,8 +1,21 @@
-# Research Portfolio — Kousha Sarpari
+<h1 align="center">Hi, I'm Kousha Sarpari — Dentist · Epidemiologist · RWE/Data Science</h1>
 
-Short write-ups of selected projects. 
 
-## Projects
+**I design evidence for digital health & dental medtech.** I work across R, RWE, and systematic reviews to turn noisy real‑world data into decisions.
+
+
+**Focus:** R (tidyverse, targets), epidemiology, OHDSI/OMOP, systematic reviews (RoB2), Quarto reporting.
+
+
+**Now:** PCS‑Journey meta‑analysis (UMG), clinical evidence pipelines, dental outcomes modeling.
+
+
+
+
+### Connect
+[Email](koushasarpari@gmail.com) · [LinkedIn]((https://www.linkedin.com/in/koushasarpari/))
+
+## sampel Projects
 - **DEFEAT: BMI correlation with mental health and HRQoL**  
   Summary: Secondary analysis exploring associations between BMI categories and outcomes.  
   Methods: Logistic/linear regression; confounder adjustment; descriptive analysis.  
@@ -16,6 +29,4 @@ Short write-ups of selected projects.
   One-line summary.  
   → Read: `projects/<file>.md`
 
-## Data & Privacy
-- No raw or identifiable data are included in this repository.
-- Any results shown are aggregated and non-identifiable.
+
