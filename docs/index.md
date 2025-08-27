@@ -6,11 +6,11 @@ All examples use **synthetic** data.
 ## Projects
 ### DEFEAT: BMI & mental health / HRQoL (categorised)
 **Summary.** Secondary analysis exploring associations between BMI categories and mental-health and QoL outcomes.  
-**Methods.** Logistic/linear models; confounder adjustment; descriptive summaries.  
+**Methods.** Logistic/linear models; confounder adjustment;.  
 → **Read:** [Report](DEFEAT-BMI-categorised/index.html)
 
 ### DEFEAT: BMI & outcomes (continuous)
-**Summary.** Same question using BMI as a continuous exposure with model diagnostics.  
+**Summary.** Same question using BMI as a continuous exposure with model diagnostics descriptive summaries.  
 **Methods.** Linear models; sensitivity checks.  
 → **Read:** [Report](DEFEAT-BMI-continuous/index.html)
 
