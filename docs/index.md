@@ -5,8 +5,6 @@ All examples use **synthetic** or **de-identified, aggregated** outputs only.
 
 ## Projects
 
-## Projects
-
 ### DEFEAT: PCS vs BMI (WHO categories 25/30)
 
 - **Question.** Is PCS associated with overweight (BMI ≥ 25) or obesity (BMI ≥ 30), and across grouped WHO BMI categories?
