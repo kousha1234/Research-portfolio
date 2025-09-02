@@ -4,14 +4,14 @@ All examples use **synthetic** or **de-identified, aggregated** outputs only.
 **Live site:** https://kousha1234.github.io/Research-portfolio/
 
 ## Projects
-### DEFEAT: BMI (categorised) → PCS status
-**Question.** Is PCS associated with BMI category (WHO cutoffs 25, 30)?  
-**Methods.** Fisher’s exact tests at BMI cutoffs; logistic regression with grouped categories (reference: BMI < 25).  
+### DEFEAT: DEFEAT: PCS vs BMI (WHO categories 25/30)
+**Question.** Is PCS associated with overweight (BMI ≥ 25) or obesity (BMI ≥ 30), and across grouped WHO BMI categories?
+**Methods.** Fisher’s exact tests at BMI cutoffs; logistic regression with grouped categories (reference: normal weight, BMI < 25).  
 → **Read:** [HTML report](DEFEAT-BMI-categorised/index.html)
 
-### DEFEAT: BMI (continuous) → PROMs
-**Question.** How does continuous BMI relate to EQ-5D VAS, FAS, and EQ-5D-3L VAS?  
-**Methods.** Descriptives, histograms/scatterplots, **Spearman correlations** (non-parametric); outlier handling noted.  
+### DEFEAT: DEFEAT: BMI (continuous) vs PROMs
+Question. How does BMI (continuous) relate to FAS, IMET, and EQ-5D (index & VAS)?
+Methods. Descriptives, histograms/scatterplots, Pearson correlations (non-parametric option noted below); outlier handling noted.
 → **Read:** [HTML report](DEFEAT-BMI-continuous/index.html)
 
 ## Resources
