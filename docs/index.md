@@ -10,8 +10,8 @@ All examples use **synthetic** or **de-identified, aggregated** outputs only.
 → **Read:** [HTML report](DEFEAT-BMI-categorised/index.html)
 
 ### DEFEAT: DEFEAT: BMI (continuous) vs PROMs
-Question. How does BMI (continuous) relate to FAS, IMET, and EQ-5D (index & VAS)?
-Methods. Descriptives, histograms/scatterplots, Pearson correlations (non-parametric option noted below); outlier handling noted.
+**Question.** How does BMI (continuous) relate to FAS, IMET, and EQ-5D (index & VAS)?
+**Methods.** Descriptives, histograms/scatterplots, Pearson correlations (non-parametric option noted below); outlier handling noted.
 → **Read:** [HTML report](DEFEAT-BMI-continuous/index.html)
 
 ## Resources
