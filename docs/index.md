@@ -17,6 +17,11 @@ All examples use **synthetic** or **de-identified, aggregated** outputs only.
 - **Methods.** Descriptives, histograms/scatterplots, **Pearson** correlations (or Spearman—match your output); outlier handling noted.
 - **Read.** [HTML report](DEFEAT-BMI-continuous/index.html)
 
+### Meta-analysis Template (R)
+
+- Question. Pooled effect across 12 synthetic trials.
+- Methods. Random-effects (REML), heterogeneity (I²), Egger test.
+- Read. [HTML report](meta_analysis.html) · [Code](https://github.com/kousha1234/r-meta-template)
 
 
 ## Resources
