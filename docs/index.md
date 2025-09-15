@@ -1,33 +1,34 @@
 # Kousha — Research Portfolio
-All examples use **synthetic** or **de-identified, aggregated** outputs only.
 
-**Live site:** https://kousha1234.github.io/Research-portfolio/
+All examples use synthetic or de-identified outputs.
+
+## About
+Dentistry × Epidemiology × Evidence Synthesis · R  
+Open to RWE/HEOR Analyst or Clinical Evidence roles (Germany/remote). Start: May 2026.  
+ [Email](mailto:koushasarpari@gmail.com) · [LinkedIn](https://linkedin.com/in/koushasarpari) · [GitHub](https://github.com/kousha1234)
 
 ## Projects
+### Meta-analysis Template (R)
+- Methods: Random-effects (REML), heterogeneity (I²), Egger
+- Read: [HTML report](meta_analysis.html)
+- Code: https://github.com/kousha1234/r-meta-template
 
-### DEFEAT: PCS vs BMI (WHO categories 25/30)
-
-- **Question.** Is PCS associated with overweight (BMI ≥ 25) or obesity (BMI ≥ 30), and across grouped WHO BMI categories?
-- **Methods.** Fisher’s exact tests at BMI cutoffs; logistic regression with grouped categories (reference: BMI < 25).
-- **Read.** [HTML report](DEFEAT-BMI-categorised/index.html)
+### DEFEAT: PCS vs BMI (WHO categories)
+- Methods: Fisher’s exact at BMI cutoffs, logistic regression with grouped categories
+- Read: [HTML report](DEFEAT-BMI-categorised/index.html)
+- Code: https://github.com/kousha1234/DEFEAT-BMI-HRQoL
 
 ### DEFEAT: BMI (continuous) vs PROMs
+- Methods: Descriptives, correlations, visuals
+- Read: [HTML report](DEFEAT-BMI-continuous/index.html)
+- Code: https://github.com/kousha1234/DEFEAT-BMI-HRQoL
 
-- **Question.** How does BMI (continuous) relate to FAS, IMET, and EQ-5D (index & VAS)?
-- **Methods.** Descriptives, histograms/scatterplots, **Pearson** correlations (or Spearman—match your output); outlier handling noted.
-- **Read.** [HTML report](DEFEAT-BMI-continuous/index.html)
-
-### Meta-analysis Template (R)
-
-- Question. Pooled effect across 12 synthetic trials.
-- Methods. Random-effects (REML), heterogeneity (I²), Egger test.
-- Read. [HTML report](meta_analysis.html) · [Code](https://github.com/kousha1234/r-meta-template)
-
-
-## Resources
-- [Repository README](https://github.com/kousha1234/Research-portfolio#readme)
-- [MIT License](https://github.com/kousha1234/Research-portfolio/blob/main/LICENSE)
+### Evidence Brief (Quarto)
+- Parameterized inputs → analysis → HTML
+- Live: https://kousha1234.github.io/quarto-evidence-brief/brief.html
+- Repo: https://github.com/kousha1234/quarto-evidence-brief
 
 ## How this site is built
-- R Markdown rendered to `/docs` and served via GitHub Pages.
-- No raw patient data; only synthetic or aggregated outputs.
+R Markdown/Quarto rendered to `/docs` and served via GitHub Pages.
+
+<sub>Last updated: 2025-09-15</sub>
