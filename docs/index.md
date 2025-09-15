@@ -16,12 +16,11 @@ Open to RWE/HEOR Analyst or Clinical Evidence roles (Germany/remote). Start: May
 ### DEFEAT: PCS vs BMI (WHO categories)
 - Methods: Fisher’s exact at BMI cutoffs, logistic regression with grouped categories
 - Read: [HTML report](DEFEAT-BMI-categorised/index.html)
-- Code: https://github.com/kousha1234/DEFEAT-BMI-HRQoL
+
 
 ### DEFEAT: BMI (continuous) vs PROMs
 - Methods: Descriptives, correlations, visuals
 - Read: [HTML report](DEFEAT-BMI-continuous/index.html)
-- Code: https://github.com/kousha1234/DEFEAT-BMI-HRQoL
 
 ### Evidence Brief (Quarto)
 - Parameterized inputs → analysis → HTML
