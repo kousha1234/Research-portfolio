@@ -24,8 +24,8 @@ Open to RWE/HEOR Analyst or Clinical Evidence roles (Germany/remote). Start: May
 
 ### Evidence Brief (Quarto)
 - Parameterized inputs → analysis → HTML
-- Live: (https://kousha1234.github.io/quarto-evidence-brief/brief.html)
-- Repo: https://github.com/kousha1234/quarto-evidence-brief
+- Read: [HTML brief](https://kousha1234.github.io/quarto-evidence-brief/brief.html)
+- Repo: [GitHub](https://github.com/kousha1234/quarto-evidence-brief)
 
 ## How this site is built
 R Markdown/Quarto rendered to `/docs` and served via GitHub Pages.
